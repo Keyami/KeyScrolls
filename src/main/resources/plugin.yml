@@ -1,0 +1,4 @@
+name: "KeyScrolls"
+version: '1.0'
+api-version: 1.13
+main: io.github.Keyami.KeyScrolls.KeyScrolls
